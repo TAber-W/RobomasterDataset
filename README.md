@@ -14,7 +14,7 @@ Robomaster比赛数据集自用仓库<br>
     参数二：--frame_pth 图片保存路径
     参数三：--frame_len 每隔多少帧保存一次
 
-## Del_empty.pu
+## Del_empty.py
 
 删除没有目标的图片（需要自己手动重命名，后续更新） <br>
 
