@@ -18,7 +18,7 @@ Robomaster比赛数据集自用仓库<br>
 
 删除没有目标的图片（需要自己手动重命名，后续更新） <br>
 
-比如图片有 0.jpg 1.jpg 2.jpg 3.jpg 4.jpg 但只有0 1 2 3 4图片有目标 <br>
+比如图片有 0.jpg 1.jpg 2.jpg 3.jpg 4.jpg 但只有 1 2 3 4图片有目标 <br>
 通过软件标注产生的label为 1.txt 2.txt 3.txt 4.txt<br>
 此脚本可以把有标签的图片移动到新的文件夹为 1.jpg 2.jpg 3.jpg 4.jpg.<br>
 
