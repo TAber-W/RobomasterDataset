@@ -3,9 +3,9 @@ import os
 import numpy as np
 
 
-labels_path = "/Users/apple/Desktop/RM_YoloV5_Network/my_data/outside_record_group_1/labels"
-images_path = "/Users/apple/Desktop/RM_YoloV5_Network/my_data/outside_record_group_1/images"
-save_path = "/Users/apple/Desktop/RM_YoloV5_Network/my_data/outside_record_group_1/new_images"
+labels_path = "/Users/apple/Desktop/RM_YoloV5_Network/my_data/inside_record_group_1/3_label"
+images_path = "/Users/apple/Desktop/RM_YoloV5_Network/my_data/inside_record_group_1/3"
+save_path = "/Users/apple/Desktop/RM_YoloV5_Network/my_data/inside_record_group_1/3_image"
 
 images_name = []
 labels_name = []
