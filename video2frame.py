@@ -1,3 +1,12 @@
+'''
+Opencv-python needed
+Author:Taber-W
+Date:2022-10-23
+
+Save frame from video
+'''
+
+
 import argparse
 import cv2
 
