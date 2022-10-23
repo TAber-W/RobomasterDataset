@@ -1,6 +1,7 @@
 # RobomasterDataset
-Robomaster比赛数据集自用仓库
-每个目录下有对相应数据集的说明。
+Robomaster比赛数据集自用仓库<br>
+每个目录下有对相应数据集的说明。<br>
+## 请注意将图片与标签目录下的其他文件删除，如自动生成的 .DStore 
 ## yolo_四点格式
 标注工具：上交标注工具<br>
 数据集类型为txt。<br>
