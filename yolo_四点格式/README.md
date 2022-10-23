@@ -9,7 +9,7 @@
 数据集数量：886<br>
 数据集标注者：Taber-W<br>
 数据集类别：待补充更新<br>
-![out_g1]("https://github.com/TAber-W/RobomasterDataset/blob/main/yolo_四点格式/images/out_g1.png")
+![image](https://github.com/TAber-W/RobomasterDataset/blob/main/yolo_四点格式/images/out_g1.png)
 <br>
 ## inside_record_group_1（🚀）
 **说明📖**<br>
@@ -20,7 +20,7 @@
 数据集数量：61<br>
 数据集标注者：Taber-W<br>
 数据集类别：待补充更新<br>
-![in_g1]("https://github.com/TAber-W/RobomasterDataset/blob/main/yolo_四点格式/images/in_g1.png")
+![image](https://github.com/TAber-W/RobomasterDataset/blob/main/yolo_四点格式/images/in_g1.png)
 
 
     
